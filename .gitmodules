@@ -3,7 +3,7 @@
 	url = https://github.com/devtank-ltd/osm_firmware_v2
 [submodule "casing"]
 	path = casing
-	url = https://github.com/devtank-ltd/osm_freecad_v2
+	url = git@github.com:devtank-ltd/osm_env01_freecad.git
 [submodule "pcb"]
 	path = pcb
 	url = https://github.com/devtank-ltd/osm_env01_kicad.git
