@@ -1,9 +1,9 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/devtank-ltd/osm_firmware_v2
-[submodule "pcb"]
-	path = pcb
-	url = https://github.com/devtank-ltd/osm_kicard_v2
 [submodule "casing"]
 	path = casing
 	url = https://github.com/devtank-ltd/osm_freecad_v2
+[submodule "pcb"]
+	path = pcb
+	url = https://github.com/devtank-ltd/osm_env01_kicad.git
